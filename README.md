@@ -58,9 +58,9 @@ Test on Mac:
 ```
 $ tftp 127.0.0.1 69
 tftp> get 123.png
-Received 102490 bytes in 0.8 secondsk
+Received 102490 bytes in 0.8 seconds
 
-tftp> get 123.png
+tftp> put 123.png
 Received 102490 bytes in 0.2 seconds 
 
 tftp> quit
